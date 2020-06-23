@@ -9,6 +9,7 @@
 第二：阿里云API的密钥   AccessKey ID和AccessKey Secret
 
 剩下就到配置文件去配置一下即可
-
+有空完善一下b把腾讯云的做上去
+QQ：250493538
 
 
